@@ -1,3 +1,6 @@
 OGP(Open Graph Protocol) 
-
 https://ogp.me/
+
+metaに以下で書く
+property="og:○○○"
+
